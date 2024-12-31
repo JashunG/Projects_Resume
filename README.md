@@ -1,4 +1,4 @@
-# Vulnerability Scanner
+#NMAP Vulnerability Scanner
 
 A Python-based vulnerability scanner that uses Nmap to identify open ports and services on a target system.
 
