@@ -1,0 +1,16 @@
+{
+    "hostnames": [
+        {
+            "name": "",
+            "type": ""
+        }
+    ],
+    "addresses": {
+        "ipv4": "162.216.206.98"
+    },
+    "vendor": {},
+    "status": {
+        "state": "down",
+        "reason": "no-response"
+    }
+}

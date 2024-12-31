@@ -7,4 +7,11 @@ A Python-based vulnerability scanner that uses Nmap to identify open ports and s
 - Identifies running services and protocols.
 - Outputs results in JSON format for easy analysis.
 
+<<<<<<< HEAD
+=======
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/JashunG/Projects_Resume.git
+>>>>>>> c130bcc (Save progress before pulling)
 
